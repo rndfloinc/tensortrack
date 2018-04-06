@@ -1,6 +1,6 @@
-# tensortrack
+# TensorTrack
 
-A collection of recipes for training models using TensorFlow and Keras
+A collection of recipes for training ML models using TensorFlow and Keras
 
 virtualenv --system-site-packages -p python3
 
