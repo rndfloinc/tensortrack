@@ -1,4 +1,6 @@
-echo "# tensortrack" >> README.md
+# tensortrack
+
+A collection of recipes for training models using TensorFlow and Keras
 
 virtualenv --system-site-packages -p python3
 
